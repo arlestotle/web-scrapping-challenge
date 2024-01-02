@@ -1,6 +1,6 @@
 # web-scrapping-challenge
 
-This challenge was devided into two parts. In part one, we used beautiful soup to extract the titles and preview texts from the mars news website and stored the data into a python data structure - a list of dictonaries. In part two, we scraped the data from the mars temerpature data site and created a pandas dataframe with seven columns: id, terrestrial_date, sol, ls, month, min_temp, and pressure. The data types were converted into appropriate datetime, int, and float data types before beginning analysis. 
+This challenge was divided into two parts. In part one, we used beautiful soup to extract the titles and preview texts from the mars news website and stored the data into a python data structure - a list of dictonaries. In part two, we scraped the data from the mars temerpature data site and created a pandas dataframe with seven columns: id, terrestrial_date, sol, ls, month, min_temp, and pressure. The data types were converted into appropriate datetime, int, and float data types before beginning analysis. 
 
 Results:
 1. There are 12 months that exist on Mars.
